@@ -1,0 +1,1 @@
+@VSArchConv.exe /notoolset /notgtwin /dstplatform x64 /dstmachine MachineX64 %1

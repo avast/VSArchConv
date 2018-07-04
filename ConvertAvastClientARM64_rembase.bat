@@ -1,0 +1,1 @@
+@VSArchConv.exe /rembase "%AswSrcRoot%" /exclude "%AswSrcRoot%\features\software_health" /exclude "%AswSrcRoot%\framework\pamcore" /exclude "%AswSrcRoot%\softwarehealth" /exclude "%AswSrcRoot%\framework\hns" /exclude "%AswSrcRoot%\Avast500\Scanner\algo-vps" /exclude "%AswSrcRoot%\Avast500\Drivers"

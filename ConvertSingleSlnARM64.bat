@@ -1,0 +1,1 @@
+@VSArchConv.exe /sln /srcplatform x64 %1

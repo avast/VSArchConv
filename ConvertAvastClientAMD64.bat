@@ -1,0 +1,2 @@
+@VSArchConv.exe /notoolset /notgtwin /dstplatform x64 /dstmachine MachineX64 "%AswSrcRoot%" /exclude "%AswSrcRoot%\features"
+@VSArchConv.exe /sln /dstplatform x64 "%AswSrcRoot%" /exclude "%AswSrcRoot%\features"

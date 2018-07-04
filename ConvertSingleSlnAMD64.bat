@@ -1,0 +1,1 @@
+@VSArchConv.exe /sln /dstplatform x64 %1
